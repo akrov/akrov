@@ -2,7 +2,7 @@
 - 👀 I’m interested in Backend.
 - 🌱 I’m currently learning JavaScript, Python
 - 💞️ I’m looking to collaborate on company...
-- 📫 How to reach me: akro.info@mail.ru
+- 📫 How to reach me: akrovart@gmail.com
 
 <!---
 akrov/akrov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
